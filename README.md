@@ -8,3 +8,5 @@ A simple Calculator App built with HTML, CSS, and JavaScript. It also has a Dark
 <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Freepik - Flaticon</a>
 
 Purely HTML, CSS. JavaScript
+
+use addstring to put number on live screen
